@@ -31,8 +31,7 @@ env/
 
 # Environment variables and secrets
 .env
-.env.*
-*.env
+
 credentials/
 *.pem
 *.key
